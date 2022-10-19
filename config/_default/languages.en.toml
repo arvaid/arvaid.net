@@ -15,8 +15,8 @@ dateFormat = "2006 January 2"
 [author]
   name = "Dániel Árvai"
   image = "profile.jpg"
-  headline = "System Analyst and Software Developer"
-  bio = "A little bit about you"
+  headline = "💼 System Analyst @ InnovITech<br/>🎓 Computer Science BSc @ Eszterházy Károly University<br/>💻 Developing in Java, Python & Elixir"
+  bio = "System Analyst and Software Developer"
    links = [
     { email = "mailto:arvaid@arvaid.tech" },
   #   { link = "https://link-to-some-website.com/" },
