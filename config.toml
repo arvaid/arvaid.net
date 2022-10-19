@@ -1,0 +1,3 @@
+baseURL = 'http://www.arvaid.tech/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
