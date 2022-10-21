@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Dániel Árvai"
-logo = "img/profile.jpg"
+#logo = "img/logo.jpg"
 description = "Dániel Árvai's Portfolio"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,7 +14,7 @@ dateFormat = "2006 January 2"
 
 [author]
   name = "Dániel Árvai"
-  image = "profile.jpg"
+  image = "img/author.jpg"
   headline = "💼 System Analyst @ InnovITech<br/>🎓 Computer Science BSc @ Eszterházy Károly University<br/>💻 Developing in Java, Python & Elixir"
   bio = "System Analyst and Software Developer"
    links = [
