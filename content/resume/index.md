@@ -7,7 +7,7 @@ showWordCount: false
 showReadingTime: false
 ---
 
-<button class="resume-link"><a href="https://rxresu.me/arvaid/arvaid" target="_blank">Open full resume</a></button>
+<button class="resume-link"><a href="https://rxresu.me/arvaid/arvaid" target="_blank">View full CV</a></button>
 <button class="resume-link"><a href="/Dániel Árvai.pdf" target="_blank">Download PDF</a></button>
 
 ## Experience
