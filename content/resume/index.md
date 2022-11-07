@@ -7,8 +7,12 @@ showWordCount: false
 showReadingTime: false
 ---
 
-<button class="resume-link"><a href="https://rxresu.me/arvaid/arvaid" target="_blank">View full CV</a></button>
-<button class="resume-link"><a href="/Dániel Árvai.pdf" target="_blank">Download PDF</a></button>
+<button class="resume-link"><a href="https://rxresu.me/arvaid/danielarvai" target="_blank">View full CV</a></button>
+
+<a href="/Dániel Árvai.pdf" target="_blank">PDF (English)</a><br/>
+<a href="/Árvai Dániel.pdf" target="_blank">PDF (Hungarian)</a>
+
+---
 
 ## Experience
 
