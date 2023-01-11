@@ -15,8 +15,8 @@ dateFormat = "2006 January 2"
 [author]
   name = "Dániel Árvai"
   image = "img/author.jpg"
-  headline = "💼 System Analyst @ InnovITech<br/>🎓 Computer Science BSc @ Eszterházy Károly University<br/>💻 Developing in Java, Python & Elixir"
-  bio = "System Analyst and Software Developer"
+  headline = "💼 Junior Software Engineer"
+  bio = "Junior Software Engineer"
    links = [
     { linkedin = "https://linkedin.com/in/arvaid" },
     { github = "https://github.com/arvaid" },

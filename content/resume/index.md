@@ -18,7 +18,8 @@ showReadingTime: false
 
 | Company | Role | Dates |
 | - | - | - |
-| [InnovITech Kft.](https://innovitech.hu/) | System Analyst | 2022&ndash; |
+| [Loxon Solutions Zrt.](https://loxon.eu/) | Junior Software Engineer | Jan 2023 &ndash; |
+| [InnovITech Kft.](https://innovitech.hu/) | System Analyst | Jun 2022 &ndash; Dec 2022 |
 | [Eszterházy Károly Catholic University](https://uni-eszterhazy.hu/) | Educational Demonstrator | Jan 2022 &ndash; Jun 2022 |
 
 ## Skills
