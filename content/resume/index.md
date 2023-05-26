@@ -7,10 +7,7 @@ showWordCount: false
 showReadingTime: false
 ---
 
-<button class="resume-link"><a href="https://rxresu.me/arvaid/danielarvai" target="_blank">View full CV</a></button>
-
-<a href="/Dániel Árvai.pdf" target="_blank">PDF (English)</a><br/>
-<a href="/Árvai Dániel.pdf" target="_blank">PDF (Hungarian)</a>
+<button class="resume-link"><a href="/Dániel Árvai.pdf" target="_blank">View full CV</a></button>
 
 ---
 
@@ -18,7 +15,7 @@ showReadingTime: false
 
 | Company | Role | Dates |
 | - | - | - |
-| [Loxon Solutions Zrt.](https://loxon.eu/) | Junior Software Engineer | Jan 2023 &ndash; |
+| [Loxon Solutions Zrt.](https://loxon.eu/) | Junior Software Engineer | 2023 &ndash; |
 | [InnovITech Kft.](https://innovitech.hu/) | System Analyst | Jun 2022 &ndash; Dec 2022 |
 | [Eszterházy Károly Catholic University](https://uni-eszterhazy.hu/) | Educational Demonstrator | Jan 2022 &ndash; Jun 2022 |
 
