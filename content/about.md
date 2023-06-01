@@ -7,18 +7,4 @@ showWordCount: false
 showReadingTime: false
 ---
 
-I'm a Computer Science graduate from Eger, Hungary. On this page you can find information about my work experience, and some things I've been working on for fun as well.
-
-My interests include:
-
-- server-side applications
-- back-end development
-- Linux
-- functional programming
-- Java
-- Python
-- Elixir
-- Rust
-- Go
-
-Feel free to get in contact!
+I'm a software engineer based in Eger, Hungary. I'm interested in back-end API development, SRE related technologies (IaC, CI/CD) such as Ansible, Terraform. I run my own Linux servers at home for fun and also sometimes use Linux on the desktop. I like to learn new tech, including programming languages like Go, Rust and Kotlin.
