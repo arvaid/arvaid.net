@@ -1,3 +1,3 @@
-baseURL = 'http://www.arvaid.net/'
+baseURL = 'http://arvaid.net/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'

@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 # theme = "blowfish"
-baseURL = "https://www.arvaid.net/"
+baseURL = "https://arvaid.net/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
