@@ -15,7 +15,7 @@ dateFormat = "2006 January 2"
 [author]
   name = "Dániel Árvai"
   image = "img/author.jpg"
-  headline = "💼 Junior Software Engineer"
+  headline = "Junior Software Engineer"
   bio = "Junior Software Engineer"
    links = [
     { linkedin = "https://linkedin.com/in/arvaid" },
