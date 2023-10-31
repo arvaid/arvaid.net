@@ -1,0 +1,21 @@
+title = "Dániel Árvai"
+
+[params]
+dateFormat = "2006 January 2"
+languageCode = "en-us"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+description = "Dániel Árvai's Portfolio"
+rssFeedDescription = "full"
+
+[params.author]
+  name = "Dániel Árvai"
+  avatar = "img/author.jpg"
+  intro = "Dániel Árvai"
+  description = "Junior Software Engineer"
+
+[params.home]
+  recent_posts = "Recent posts"
