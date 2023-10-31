@@ -1,15 +1,10 @@
 title = "Dániel Árvai"
-
-[params]
-dateFormat = "2006 January 2"
 languageCode = "en-us"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
-description = "Dániel Árvai's Portfolio"
-rssFeedDescription = "full"
+
+[params]
+  rssFeedDescription = "full"
 
 [params.author]
   name = "Dániel Árvai"
