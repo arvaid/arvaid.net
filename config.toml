@@ -1,3 +1,28 @@
+theme = "hugo-blog-awesome"
+languageCode = 'en-us'
+baseURL = "https://www.arvaid.net/"
+defaultContentLanguage = "en-us"
+
+enableEmoji = true
+
+enableRobotsTXT = true
+paginate = 20
+summaryLength = 30
+
+buildDrafts = false
+buildFuture = false
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 [Languages.en-us]
   languageName = "English"
   languageCode = "en-us"
