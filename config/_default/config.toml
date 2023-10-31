@@ -22,3 +22,8 @@ buildFuture = false
   changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
+
+[Languages.en-us]
+  languageName = "English"
+  languageCode = "en-us"
+  weight = 1
