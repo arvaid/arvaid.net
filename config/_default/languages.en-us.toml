@@ -5,12 +5,11 @@ weight = 1
 
 [params]
   rssFeedDescription = "full"
+  languageCode = "en-us"
+  languageName = "English"
 
 [params.author]
   name = "Dániel Árvai"
   avatar = "img/author.jpg"
   intro = "Dániel Árvai"
   description = "Junior Software Engineer"
-
-[params.home]
-  recent_posts = "Recent posts"
