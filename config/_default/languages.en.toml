@@ -1,16 +1,16 @@
+title = "Dániel Árvai"
+
+[params]
+dateFormat = "2006 January 2"
 languageCode = "en"
 languageName = "English"
 displayName = "EN"
 isoCode = "en"
 weight = 1
 rtl = false
-
-title = "Dániel Árvai"
 #logo = "img/logo.jpg"
 description = "Dániel Árvai's Portfolio"
 # copyright = "Copy, _right?_ :thinking_face:"
-
-dateFormat = "2006 January 2"
 
 [author]
   name = "Dániel Árvai"
