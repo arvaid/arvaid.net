@@ -4,7 +4,7 @@ date: 2022-10-20T13:43:52+02:00
 
 ---
 
-I'm a software engineer based in Eger, Hungary. I'm interested in back-end API development, SRE related technologies (IaC, CI/CD) such as Ansible, Terraform. I run my own Linux servers at home for fun and also sometimes use Linux on the desktop. I like to learn new tech, including programming languages like Elixir, Go, Rust and Kotlin.
+I'm a software engineer based in Eger, Hungary. I'm currently working with Java 8 and Oracle Database. My other interests include back-end API development, SRE related technologies (IaC, CI/CD) such as Ansible and Terraform. I run my own Linux servers at home for fun and also sometimes use Linux on the desktop. I like to learn new tech, including programming languages like Elixir, Go, Rust and Kotlin.
 
 ---
 
