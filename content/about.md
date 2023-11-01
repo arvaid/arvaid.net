@@ -8,7 +8,7 @@ I'm a software engineer based in Eger, Hungary. I'm currently working with Java 
 
 ---
 
-*[View full CV](</Dániel Árvai.pdf>)*
+**[View full CV](</Dániel Árvai.pdf>)**
 
 ---
 
