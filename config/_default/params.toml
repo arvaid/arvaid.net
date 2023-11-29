@@ -5,6 +5,10 @@ name = "github"
 url = "https://github.com/arvaid"
 
 [[socialIcons]]
+name = "gitlab"
+url = "https://gitlab.com/arvaid"
+
+[[socialIcons]]
 name = "email"
 url = "contact@arvaid.net"
 
