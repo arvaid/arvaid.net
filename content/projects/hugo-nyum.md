@@ -1,7 +1,7 @@
 ---
 title: Hugo-Nyum
 date: 2023-09-02T11:19:01+02:00
-draft: false
+draft: true
 ---
 
 I needed a way to have a recipe collection ready at hand (i.e. on my phone) that I can share with my partner.
