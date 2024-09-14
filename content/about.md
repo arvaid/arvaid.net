@@ -6,7 +6,7 @@ date: 2022-10-20T13:43:52+02:00
 
 ---
 
-***[View my resume](</Dániel_Árvai.pdf>)***
+***[View my CV](</CV_Dániel_Árvai.pdf>)***
 
 ---
 
